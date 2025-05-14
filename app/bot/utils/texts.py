@@ -65,8 +65,7 @@ class TextMessage(Text):
                     "To send an edited message, send it as a new message."
                 ),
                 "source": (
-                    "Source code available at "
-                    "<a href=\"https://github.com/nessshon/support-bot\">GitHub</a>"
+                    "@botat"
                 ),
                 "user_started_bot": (
                     "<b>User {name} started the bot!</b>\n\n"
